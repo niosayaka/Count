@@ -14,6 +14,7 @@
 		961E0956204FF4470025E882 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 961E0954204FF4470025E882 /* LaunchScreen.storyboard */; };
 		961E0961204FF4470025E882 /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961E0960204FF4470025E882 /* CountTests.swift */; };
 		961E096C204FF4470025E882 /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961E096B204FF4470025E882 /* CountUITests.swift */; };
+		961E097A204FF51A0025E882 /* ぴ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 961E0979204FF51A0025E882 /* ぴ.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		961E0967204FF4470025E882 /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		961E096B204FF4470025E882 /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		961E096D204FF4470025E882 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		961E0979204FF51A0025E882 /* ぴ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "ぴ.jpg"; path = "../../../Downloads/ぴ.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		961E094A204FF4470025E882 /* Count */ = {
 			isa = PBXGroup;
 			children = (
+				961E0979204FF51A0025E882 /* ぴ.jpg */,
 				961E094B204FF4470025E882 /* AppDelegate.swift */,
 				961E094D204FF4470025E882 /* ViewController.swift */,
 				961E094F204FF4470025E882 /* Main.storyboard */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				961E0956204FF4470025E882 /* LaunchScreen.storyboard in Resources */,
+				961E097A204FF51A0025E882 /* ぴ.jpg in Resources */,
 				961E0953204FF4470025E882 /* Assets.xcassets in Resources */,
 				961E0951204FF4470025E882 /* Main.storyboard in Resources */,
 			);
