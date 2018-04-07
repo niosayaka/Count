@@ -27,12 +27,13 @@ class ViewController: UIViewController {
         number = number + 1
         label.text = String(number)
         label.textColor = UIColor.red
+        label.font = UIFont.systemFont(ofSize: 120)
         }
     
-@IBAction func minus(){
-    number = number - 1
-    label.text = String(number)
-    label.textColor = UIColor.blue
+    @IBAction func minus(){
+        number = number - 1
+        label.text = String(number)
+        label.textColor = UIColor.blue
+        }
     }
-}
 
